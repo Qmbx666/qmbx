@@ -1,4 +1,4 @@
-{
+测试{
   "群KEY":"RJXHXNThwN2-s48hm689uRmaeqFHoArR",
   "客服QQ":"189818373",
   "客服微信":"RJX8788",
